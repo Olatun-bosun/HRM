@@ -1,0 +1,206 @@
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\appsettings.json
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\HRMSApplication.exe
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\HRMSApplication.deps.json
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\HRMSApplication.runtimeconfig.json
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\HRMSApplication.runtimeconfig.dev.json
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\HRMSApplication.dll
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\HRMSApplication.pdb
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\HRMSApplication.Views.dll
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\HRMSApplication.Views.pdb
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.AssemblyReference.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.AssemblyInfoInputs.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.AssemblyInfo.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorAssemblyInfo.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorAssemblyInfo.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\scopedcss\bundle\HRMSApplication.styles.css
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\staticwebassets\HRMSApplication.StaticWebAssets.Manifest.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\staticwebassets\HRMSApplication.StaticWebAssets.Pack.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.HRMSApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.build.HRMSApplication.props
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.HRMSApplication.props
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.HRMSApplication.props
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.TagHelpers.input.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.TagHelpers.output.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorCoreGenerate.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorTargetAssemblyInfo.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorTargetAssemblyInfo.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.Views.pdb
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.dll
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\refint\HRMSApplication.dll
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.pdb
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.genruntimeconfig.cache
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\ref\HRMSApplication.dll
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.CopyComplete
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Program Files (x86)\HRMSApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Create.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Delete.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Edit.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Index.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Login.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Logout.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Register.cshtml.g.cs
+C:\Program Files (x86)\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Sub.cshtml.g.cs
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\appsettings.Development.json
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\appsettings.json
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\HRMSApplication.exe
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\HRMSApplication.deps.json
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\HRMSApplication.runtimeconfig.json
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\HRMSApplication.runtimeconfig.dev.json
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\HRMSApplication.dll
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\HRMSApplication.pdb
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\HRMSApplication.Views.dll
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\HRMSApplication.Views.pdb
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\System.Data.SqlClient.dll
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VVVVV\HRMSApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.AssemblyReference.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.AssemblyInfoInputs.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.AssemblyInfo.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.CoreCompileInputs.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorAssemblyInfo.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorAssemblyInfo.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\scopedcss\bundle\HRMSApplication.styles.css
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\staticwebassets\HRMSApplication.StaticWebAssets.Manifest.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\staticwebassets\HRMSApplication.StaticWebAssets.Pack.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.HRMSApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.build.HRMSApplication.props
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.HRMSApplication.props
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.HRMSApplication.props
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.TagHelpers.input.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.TagHelpers.output.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorCoreGenerate.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Create.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Delete.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Edit.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Index.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Login.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Logout.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Register.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Sub.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorTargetAssemblyInfo.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorTargetAssemblyInfo.cs
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.Views.pdb
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.CopyComplete
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.dll
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\refint\HRMSApplication.dll
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.pdb
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\HRMSApplication.genruntimeconfig.cache
+D:\VVVVV\HRMSApplication\obj\Debug\net5.0\ref\HRMSApplication.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\appsettings.json
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.StaticWebAssets.xml
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.exe
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.deps.json
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.runtimeconfig.json
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.runtimeconfig.dev.json
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.pdb
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.Views.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\HRMSApplication.Views.pdb
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.AssemblyReference.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.AssemblyInfoInputs.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.AssemblyInfo.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.CoreCompileInputs.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorAssemblyInfo.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorAssemblyInfo.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\scopedcss\bundle\HRMSApplication.styles.css
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\staticwebassets\HRMSApplication.StaticWebAssets.Manifest.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\staticwebassets\HRMSApplication.StaticWebAssets.Pack.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.HRMSApplication.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.build.HRMSApplication.props
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.HRMSApplication.props
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.HRMSApplication.props
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.TagHelpers.input.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.TagHelpers.output.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorCoreGenerate.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Edit.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Admin\Employees\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Login.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Logout.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Auth\Register.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Sub.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorTargetAssemblyInfo.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.RazorTargetAssemblyInfo.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.Views.pdb
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.csproj.CopyComplete
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\refint\HRMSApplication.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.pdb
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.genruntimeconfig.cache
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\ref\HRMSApplication.dll
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Cadres\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Cadres\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Cadres\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Departments\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Departments\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Departments\Index1.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Grades\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Grades\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Grades\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Gralls\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Gralls\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Gralls\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Grdeds\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Grdeds\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Overview.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Sheets\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Sheets\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Sheets\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Steps\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Steps\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Steps\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Units\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Units\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Units\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Varalls\Create.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Varalls\Delete.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Varalls\Index.cshtml.g.cs
+C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\obj\Debug\net5.0\Razor\Pages\Setup\Vardeds\Index.cshtml.g.cs
+C:\Users\Joseph\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.dll
+C:\Users\Joseph\Desktop\HRMSApplication\obj\Debug\net5.0\refint\HRMSApplication.dll
+C:\Users\Joseph\Desktop\HRMSApplication\obj\Debug\net5.0\HRMSApplication.pdb

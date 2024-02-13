@@ -1,0 +1,189 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = HRMSApplication
+build_property.RootNamespace = HRMSApplication
+build_property.ProjectDir = C:\Users\Arise Olatunbosun\Desktop\HRMSApplication\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Arise Olatunbosun\Desktop\HRMSApplication
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Admin/Employees/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRW1wbG95ZWVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Admin/Employees/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRW1wbG95ZWVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Admin/Employees/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRW1wbG95ZWVzXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Admin/Employees/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW5cRW1wbG95ZWVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Auth/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxMb2dvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Cadres/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcQ2FkcmVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Cadres/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcQ2FkcmVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Cadres/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcQ2FkcmVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Departments/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcRGVwYXJ0bWVudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Departments/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcRGVwYXJ0bWVudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Departments/Index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcRGVwYXJ0bWVudHNcSW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Grades/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcR3JhZGVzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Grades/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcR3JhZGVzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Grades/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcR3JhZGVzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Gralls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcR3JhbGxzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Gralls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcR3JhbGxzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Gralls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcR3JhbGxzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Grdeds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcR3JkZWRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Grdeds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcR3JkZWRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Overview.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcT3ZlcnZpZXcuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Sheets/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcU2hlZXRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Sheets/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcU2hlZXRzXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Sheets/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcU2hlZXRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Steps/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcU3RlcHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Steps/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcU3RlcHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Steps/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcU3RlcHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Units/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcVW5pdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Units/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcVW5pdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Units/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcVW5pdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Varalls/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcVmFyYWxsc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Varalls/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcVmFyYWxsc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Varalls/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcVmFyYWxsc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Setup/Vardeds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2V0dXBcVmFyZGVkc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Sub.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3ViLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Arise Olatunbosun/Desktop/HRMSApplication/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-y36yjsczm9
